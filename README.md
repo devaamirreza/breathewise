@@ -23,6 +23,14 @@ Air-quality numbers are useful, but they can be difficult to interpret in everyd
 
 Search for a city, understand its current conditions, and ask BreatheWise what the information may mean for your day.
 
+## 📸 Application Preview
+
+<p align="center">
+  <img src="assets/breathewise-dashboard.png"
+       alt="BreatheWise air quality dashboard"
+       width="100%">
+</p>
+
 ## 🌬️ Features
 
 - **City-based air-quality lookup** — search for a location and retrieve its available air-quality information.
